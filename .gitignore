@@ -1,3 +1,8 @@
+# Downloaded files
+/pdb_database
+/pdb_database_svg
+pdb_database.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
